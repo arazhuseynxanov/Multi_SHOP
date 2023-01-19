@@ -1,0 +1,174 @@
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\appsettings.json
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\MultiShop.staticwebassets.runtime.json
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\MultiShop.exe
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\MultiShop.deps.json
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\MultiShop.runtimeconfig.json
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\MultiShop.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\MultiShop.pdb
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\obj\Debug\net6.0\MultiShop.csproj.AssemblyReference.cache
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\obj\Debug\net6.0\MultiShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\obj\Debug\net6.0\MultiShop.AssemblyInfoInputs.cache
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\obj\Debug\net6.0\MultiShop.AssemblyInfo.cs
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\obj\Debug\net6.0\MultiShop.csproj.CoreCompileInputs.cache
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\obj\Debug\net6.0\MultiShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\obj\Debug\net6.0\MultiShop.RazorAssemblyInfo.cache
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\obj\Debug\net6.0\MultiShop.RazorAssemblyInfo.cs
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\obj\Debug\net6.0\staticwebassets\msbuild.MultiShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\obj\Debug\net6.0\staticwebassets\msbuild.build.MultiShop.props
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MultiShop.props
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MultiShop.props
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\obj\Debug\net6.0\scopedcss\bundle\MultiShop.styles.css
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\obj\Debug\net6.0\scopedcss\projectbundle\MultiShop.bundle.scp.css
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\obj\Debug\net6.0\MultiShop.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\obj\Debug\net6.0\refint\MultiShop.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\obj\Debug\net6.0\MultiShop.pdb
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\obj\Debug\net6.0\MultiShop.genruntimeconfig.cache
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\obj\Debug\net6.0\ref\MultiShop.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Humanizer.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\obj\Debug\net6.0\MultiShop.csproj.CopyComplete
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\CA.R215.15\Desktop\MultiShop\MultiShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\appsettings.json
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\MultiShop.staticwebassets.runtime.json
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\MultiShop.exe
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\MultiShop.deps.json
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\MultiShop.runtimeconfig.json
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\MultiShop.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\MultiShop.pdb
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Humanizer.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\obj\Debug\net6.0\MultiShop.csproj.AssemblyReference.cache
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\obj\Debug\net6.0\MultiShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\obj\Debug\net6.0\MultiShop.AssemblyInfoInputs.cache
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\obj\Debug\net6.0\MultiShop.AssemblyInfo.cs
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\obj\Debug\net6.0\MultiShop.csproj.CoreCompileInputs.cache
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\obj\Debug\net6.0\MultiShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\obj\Debug\net6.0\MultiShop.RazorAssemblyInfo.cache
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\obj\Debug\net6.0\MultiShop.RazorAssemblyInfo.cs
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\obj\Debug\net6.0\staticwebassets\msbuild.MultiShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\obj\Debug\net6.0\staticwebassets\msbuild.build.MultiShop.props
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MultiShop.props
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MultiShop.props
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\obj\Debug\net6.0\scopedcss\bundle\MultiShop.styles.css
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\obj\Debug\net6.0\scopedcss\projectbundle\MultiShop.bundle.scp.css
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\obj\Debug\net6.0\MultiShop.csproj.CopyComplete
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\obj\Debug\net6.0\MultiShop.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\obj\Debug\net6.0\refint\MultiShop.dll
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\obj\Debug\net6.0\MultiShop.pdb
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\obj\Debug\net6.0\MultiShop.genruntimeconfig.cache
+C:\Users\CA.R215.15\Desktop\Evde Yaz\MultiShop\MultiShop\obj\Debug\net6.0\ref\MultiShop.dll
